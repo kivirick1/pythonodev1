@@ -1,6 +1,1 @@
-kitaplar = [
- ("978-1-60309-452-8", "Watchmen", "Alan Moore", 1987),
- ("978-1-891830-85-3", "The League of Extraordinary Gentlemen", "Alan Moore", 1999),
- ("978-1-78116-593-1", "V for Vendetta", "Alan Moore", 1988),
- ("978-0-316-76948-9", "The Road", "Cormac McCarthy", 2006)
-]
+https://docs.google.com/presentation/d/1-3xZ6c5Al7Nx6EnLE6LqUxqpPg4T_1QxzzV3YwwlLvk/edit?usp=drivesdk
